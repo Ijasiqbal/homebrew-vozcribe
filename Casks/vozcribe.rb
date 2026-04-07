@@ -1,6 +1,6 @@
 cask "vozcribe" do
-  version "1.1"
-  sha256 "aa003b14811b3d46e1504c20c5f1dc450d597fe6a7fe78c5834dba26fcffde2f"
+  version "1.11"
+  sha256 "88ca7376ad5bf99e0f33648b789939add62f5549d46e2c0f7bb2e79ea6ba7261"
 
   url "https://github.com/Ijasiqbal/Vozcribe-release/releases/download/v#{version}/Vozcribe-#{version}.zip"
   name "Vozcribe"
